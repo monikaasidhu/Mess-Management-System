@@ -62,7 +62,7 @@ Built with the MERN stack (MongoDB, Express, React, Node.js) and deployed on Ver
 - **Input Validation** - Server-side and client-side data validation
 
 ---
-
+<a name="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 ### Frontend
