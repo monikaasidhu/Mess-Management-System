@@ -123,7 +123,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/monikaasidhu/MessManagementSystem.git
+git clone https://github.com/monikaasidhu/Mess-Management-System.git
 cd MessManagementSystem
 ```
 
