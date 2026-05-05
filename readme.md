@@ -2,10 +2,6 @@
 
 <div align="center">
 
-![GitHub Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github)
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-![MERN](https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square)
 
 **A comprehensive hostel mess management platform built with modern web technologies**
 
@@ -363,7 +359,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 
 <div align="center">
 
-**[⬆ Back to Top](#-mess-management-system)**
+**[Back to Top](#-mess-management-system)**
 
 
 </div>
