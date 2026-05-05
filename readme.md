@@ -19,7 +19,7 @@
 
 - [Overview](#-overview)
 - [Key Features](#-key-features)
-- [Tech Stack](#tech-stack)
+- [Tech Stack](#-tech-stack)
 - [Quick Links](#-quick-links)
 - [Installation & Setup](#-installation--setup)
 - [Project Structure](#-project-structure)
