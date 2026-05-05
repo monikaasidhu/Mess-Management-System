@@ -9,7 +9,7 @@
 
 **A comprehensive hostel mess management platform built with modern web technologies**
 
-[🌐 Live Demo](mess-management-system-bice.vercel.app) • [📖 Documentation](#-documentation) • [🛠️ Setup Guide](#-installation--setup)
+[🌐 Live Demo](https://mess-management-system-bice.vercel.app) • [📖 Documentation](#-documentation) • [🛠️ Setup Guide](#-installation--setup)
 
 </div>
 
