@@ -27,7 +27,7 @@
 
 ## 🎯 Overview
 
-The **Mess Management System** is a full-stack web application designed to streamline hostel mess operations. It enables students to manage meal registrations, provide feedback, and submit complaints, while administrators can efficiently manage menus, process complaints, and oversee mess operations.
+The **Mess Management System** is a full stack web application designed to streamline hostel mess operations. It enables students to manage meal registrations, provide feedback, and submit complaints, while administrators can efficiently manage menus, process complaints, and oversee mess operations.
 
 Built with the MERN stack (MongoDB, Express, React, Node.js) and deployed on Vercel with Supabase authentication and PostgreSQL database, this system provides a robust, scalable solution for modern hostel management.
 
@@ -52,10 +52,10 @@ Built with the MERN stack (MongoDB, Express, React, Node.js) and deployed on Ver
 - **Billing & Payments** - Track student dues and payment status
 
 ### 🔐 Security & Authentication
-- **Supabase Auth Integration** - Enterprise-grade authentication
+- **Supabase Auth Integration** - Enterprise grade authentication
 - **Role-Based Access Control** - Separate admin and student interfaces
 - **Secure API Endpoints** - JWT token-based authorization
-- **Input Validation** - Server-side and client-side data validation
+- **Input Validation** - Server-side and client side data validation
 
 ---
 <a name="tech-stack"></a>
@@ -63,7 +63,7 @@ Built with the MERN stack (MongoDB, Express, React, Node.js) and deployed on Ver
 
 ### Frontend
 - **React.js** - UI library for building interactive interfaces
-- **React Router** - Client-side routing and navigation
+- **React Router** - Client side routing and navigation
 - **Axios** - HTTP client for API requests
 - **Tailwind CSS** / **CSS Modules** - Styling and responsive design
 - **React Context / Redux** - State management (if applicable)
@@ -92,7 +92,7 @@ Built with the MERN stack (MongoDB, Express, React, Node.js) and deployed on Ver
 | Component | URL |
 |-----------|-----|
 | 🌍 Main App | https://mess-management-system-bice.vercel.app/ |
-| 👨‍💼 Admin Login | https://mess-management-system-bice.vercel.app/admin/login |
+| 👨‍💼 Admin Login | https://mess-management system-bice.vercel.app/admin/login |
 | 👤 Student Register | https://mess-management-system-bice.vercel.app/register |
 
 ### Demo Credentials
